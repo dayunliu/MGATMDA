@@ -1,0 +1,537 @@
+"Adenomatosis, pulmonary"	0
+"Hepatitis, alcoholic"	1
+Abdominal abscess	2
+Acanthamoeba keratitis	3
+Acne	4
+Actinomycosis	5
+Acute Lymphoblastic Leukemia	6
+Acute bacteria prostatitis	7
+Acute chest syndrome	8
+Acute hemorrhagic conjunctivitis	9
+Acute hepatitis a virus (hav) infection	10
+Age-related macular degeneration	11
+Aggressive periodontitis	12
+Aids	13
+Alcohol dependence	14
+Alcoholic pancreatitis	15
+Allergic contact dermatitis	16
+Allergic sensitization measurement	17
+Allergy	18
+Alzheimer Disease	19
+Alzheimers disease	20
+Amebiasis	21
+Amyotrophic Lateral Sclerosis	22
+Amyotrophic lateral sclerosis	23
+Ancylostomiasis	24
+Anemia	25
+Anisakiasis	26
+Ankylosing spondylitis	27
+Anogenital venereal wart	28
+Anorexia	29
+Anorexia nervosa	30
+Aphthous ulcer	31
+Appendicitis	32
+Arthritis	33
+Ascariasis	34
+Ascites	35
+Aseptic meningitis	36
+Asthma	37
+Asthma exacerbation measurement	38
+Atc code d dermatologicals	39
+Atherosclerosis	40
+Atopic eczema	41
+Atopy	42
+Atrophic gastritis	43
+Atrophic rhinitis	44
+Atrophic vaginitis	45
+Attention deficit hyperactivity disorder	46
+Autism	47
+Autism spectrum disorder	48
+Autoimmune hepatitis	49
+Autoimmune polyendocrinopathy type 1	50
+Azoospermia	51
+Babesiosis	52
+Bacteria vaginosis	53
+Bacterial conjunctivitis	54
+Bacterial endocarditis	55
+Bacterial meningitis	56
+Bacterial vaginosis	57
+Bacteriemia	58
+Balantidiasis	59
+Barrett's esophagus	60
+Bartholin gland carcinoma	61
+Behcet's syndrome	62
+Biliary Tract Neoplasms	63
+Biliary dyskinesia	64
+Bipolar disorder	65
+Black leg disease	66
+Black scour disease	67
+Blastomycosis	68
+Borrelia infectious disease	69
+Botulism	70
+Boutonneuse fever	71
+Brain infarction	72
+Breast Neoplasms	73
+Breast adenosis	74
+Brill-zinsser disease	75
+Bronchiolitis	76
+Brucellosis	77
+Bullous pemphigoid	78
+Bullous skin disease	79
+Buruli ulcer	80
+Campylobacteriosis	81
+Canaliculitis	82
+Cardiac arrhythmia	83
+Cardiovascular disease	84
+Causing nosocomial	85
+Celiac Disease	86
+Celiac disease	87
+Cellulitis	88
+Central nervous system infection	89
+Cervical adenocarcinoma	90
+Cervical carcinoma	91
+Cervical glandular intraepithelial neoplasia	92
+Chagas cardiomyopathy	93
+Chickenpox	94
+Chikungunya encephalitis	95
+Chlamydia	96
+Chlamydiosis	97
+Cholera	98
+Chromoblastomycosis	99
+Chronic bacteria prostatitis	100
+Chronic bronchitis	101
+Chronic fatigue syndrome	102
+Chronic gastritis	103
+Chronic kidney disease	104
+Chronic mucocutaneous candidosis	105
+Chronic obstructive pulmonary disease	106
+Chronic periodontitis	107
+Chronic rhinosinusitis	108
+Cicatricial pemphigoid	109
+Cirrhosis of liver	110
+Clostridium difficile infection	111
+Coccidioidomycosis	112
+Cold sores	113
+Colitis	114
+Colon adenocarcinoma	115
+Colon cancer	116
+Colorado tick fever	117
+Colorectal Neoplasms	118
+Colorectal adenocarcinoma	119
+Colorectal cancer	120
+Colorectal carcinoma	121
+Complications during parturition	122
+Congenital intrauterine infection-like syndrome	123
+Congenital microcephaly	124
+Congenital short bowel syndrome	125
+Conjunctival disorder	126
+Constipation	127
+Constipation irritable bowel syndrome(ibs)	128
+Corneal edema	129
+Coronary Artery Disease	130
+Coronary Heart Disease	131
+Coronary artery disease	132
+Coronary heart disease	133
+Corporis	134
+Crohn Disease	135
+Crohn's disease	136
+Croup	137
+Cryptococcosis	138
+Cryptosporidiosis	139
+Cutaneous acanthamebiasis	140
+Cutaneous burn	141
+Cutaneous fungus infections	142
+Cutaneous leishmaniasis	143
+Cutaneous mycoses	144
+Cutaneous syphilis	145
+Cyclosporiasis	146
+Cystic fibrosis	147
+Cystic fibrosis associated meconium ileum	148
+Cytomegalovirus retinitis	149
+Dacryocystitis - osteopoikilosis	150
+Dandruff	151
+Deafness	152
+Dendritic keratitis	153
+Dengue disease	154
+Dental caries	155
+Denture stomatitis	156
+Dermal and genital lesions	157
+Dermoid cyst	158
+Diabetes mellitus	159
+Diabetic foot	160
+Diarrhea	161
+Diphtheria	162
+Disease	163
+Disease-free	164
+Disseminated trichosporonosis	165
+Diverticular Diseases	166
+Diverticular disease	167
+Dysfunction	168
+Dyspepsia	169
+Dysplastic oral keratinocyte	170
+Echinococcosis	171
+Eczema	172
+Encephalopathy	173
+Endocarditis	174
+Endometrial Neoplasms	175
+Endometrial adenosquamous carcinoma	176
+Enterobiasis	177
+Enterocolitis	178
+Enthesitis-related arthritis	179
+Eosinophilic esophagitis	180
+Ephemeral fever	181
+Epidemic pleurodynia	182
+Epiglottitis	183
+Epithelial neoplasm	184
+Erysipelas	185
+Erythema infectiosum	186
+Erythrasma	187
+Escherichia coli meningitis	188
+Esophageal Neoplasms	189
+Esophageal squamous cell carcinoma	190
+Eumycotic mycetoma	191
+European foulbrood	192
+Exanthema subitum	193
+Extraoral abscesses	194
+Eye infection	195
+Familial adenomatous polyposis	196
+Familial idiopathic steroid-resistant nephrotic syndrome	197
+Febrile seizures	198
+Fever	199
+Foot and mouth disease	200
+Foul odor	201
+Fungemia	202
+Furunculosis	203
+Fusariosis	204
+Gallbladder Neoplasms	205
+Gallbladder disease	206
+Gangrene	207
+Gas gangrene	208
+Gastric cancer	209
+Gastric carcinoma	210
+Gastritis	211
+Gastroenteritis	212
+Gastroesophageal Reflux	213
+Gastroesophageal reflux disease	214
+Gastrointestinal mucositis	215
+Genital herpes	216
+Genital warts	217
+Geotrichosis	218
+Gestational diabetes	219
+Giardiasis	220
+Gingival bleeding	221
+Gnathomiasis	222
+Gonorrhea	223
+Granuloma inguinale	224
+Granulomatous dermatitis	225
+Guillain-barre syndrome	226
+Gum cancer	227
+Hashimoto's thyroiditis	228
+Head and Neck Neoplasms	229
+Head and neck malignant neoplasia	230
+Heart failure	231
+Helicobacter pylori infectious disease	232
+Hemolytic uremic syndrome	233
+Hemorrhagic disease of newborn	234
+Henoch-schoenlein purpura	235
+Hepatic vein thrombosis	236
+Hepatitis	237
+Hepatitis a	238
+Hepatitis b infection	239
+Hepatitis c infection	240
+Hepatitis e	241
+Hepatocellular carcinoma	242
+Herpangina	243
+Herpes simplex infection	244
+Herpes zoster	245
+Heterophyiasis	246
+Hirschsprung disease - nail hypoplasia - dysmorphism	247
+Histoplasmosis	248
+Hiv infection	249
+Human african trypanosomiasis	250
+Human granulocytic anaplasmosis	251
+Human papilloma virus infection	252
+Hutchinson-gilford progeria syndrome	253
+Hyalohyphomycosis	254
+Hydrocephalus	255
+Hydrops fetalis	256
+Hyperlipidemia	257
+Hypertension	258
+Hyperthyroidism	259
+Idiopathic pulmonary fibrosis	260
+Ileocolitis	261
+In children with genital lesions	262
+Infection	263
+Infections	264
+Infectious arthritis	265
+Infectious meningitis	266
+Infectious mononucleosis	267
+Infertility	268
+Inflammatory Bowel Diseases	269
+Inflammatory bowel disease	270
+Inflammatory breast carcinoma	271
+Inflammatory skin disease	272
+Injury	273
+Interstitial cystitis	274
+Irritable Bowel Syndrome	275
+Ischemia	276
+Juvenile idiopathic arthritis	277
+Kaposi's sarcoma	278
+Keratoconjunctivitis sicca	279
+Kidney stone	280
+Laryngeal Neoplasms	281
+Laryngeal squamous cell carcinoma	282
+Late postpartum endometritis	283
+Legionellosis	284
+Legionnaires' disease	285
+Leishmaniasis	286
+Leprosy	287
+Lesions in humans	288
+Listeriosis	289
+Liver Neoplasms	290
+Liver disease	291
+Lower urinary tract symptom	292
+Ludwig's angina	293
+Lung Neoplasms	294
+Lung abscess	295
+Lung disease	296
+Lungsaspergillosis	297
+Lupus nephritis	298
+Lyme disease	299
+Lymphadenitis	300
+Lymphangitis	301
+Lymphogranuloma venereumm	302
+Lymphoproliferative disease	303
+Major depressive episode	304
+Malaria	305
+Malignant	306
+Maxillary sinusitis	307
+Measles	308
+Megaesophagus	309
+Meibomian cyst	310
+Membranous glomerulonephritis	311
+Meningoencephalitis	312
+Metagonimiasis	313
+Microsporidiosis	314
+Mild disease course	315
+Miliaria	316
+Mononucleosis among immunocompetent individuals	317
+Mouth Neoplasms	318
+Mouth neoplasm	319
+Mucocutaneous lymph node syndrome	320
+Mucormycosis	321
+Multiple sclerosis	322
+Multiple system atrophy	323
+Muscle aches	324
+Myelitis	325
+Myeloid sarcoma	326
+Myoclonic cerebellar dyssynergia	327
+Myofascial pain syndrome	328
+Nausea	329
+Nausea and vomiting	330
+Necrotizing enterocolitis	331
+Necrotizing ulcerative gingivitis	332
+Neonatal sepsis	333
+Nephrolithiasis	334
+Neuromyelitis optica	335
+Neuropathy	336
+New-onset untreated rheumatoid arthrits	337
+Nocardiosis	338
+Non-alcoholic fatty liver disease	339
+Non-alcoholic steatohepatitis	340
+Nonchlamydial nongonococcal urethritis in males	341
+Nongonococcal urethritis in males	342
+Not foundthogenic	343
+Obesity	344
+Obsolete chromosome disorder	345
+Ocarditis	346
+Odontogenic cyst	347
+Oligoarticular juvenile idiopathic arthritis	348
+Oligoasthenoteratozoospermia	349
+Open-angle glaucoma	350
+Opisthorchiasis	351
+Oral candidiasis	352
+Oral cavity cancer	353
+Oral leukoplakia	354
+Oral lichen planus	355
+Oral tuberculosis	356
+Orchitis	357
+Osteomyelitis	358
+Ostomyelitis	359
+Otitis media	360
+Ovarian Neoplasms	361
+Pancreatic Neoplasms	362
+Pancreatic carcinoma	363
+Pancreatitis	364
+Panophthalmitis	365
+Paracoccidioidomycosis	366
+Paragonimiasis	367
+Parkinson Disease	368
+Parkinson's disease	369
+Parotitis	370
+Pasteurella hemorrhagic septicemia	371
+Pathogenic	372
+Pectobacterium carotovorum infection	373
+Pelvic inflamm atory disease	374
+Pelvic inflammatory disease	375
+Pelvic in铿俛mmatory disease	376
+Peptic esophagitis	377
+Peptic ulcer	378
+Peptic ulcers	379
+Periapical granuloma	380
+Pericarditis	381
+Periodontal	382
+Periodontitis	383
+Peripheral Arterial Disease	384
+Peritonitis	385
+Peritonsillar abscess	386
+Pervasive developmental disorder - not otherwise specified	387
+Pharyngeal Neoplasms	388
+Pig-bel syndrome	389
+Pityriasis versicolor	390
+Plantar fasciitis	391
+Pleural tuberculosis	392
+Pleuropulmonary blastoma	393
+Pneumocystosis	394
+Pneumonia	395
+Pneumonic pasteurellosis	396
+Poliomyelitis	397
+Polycystic ovary syndrome	398
+Polyomas	399
+Postmenopausal	400
+Pouchitis	401
+Prediabetes syndrome	402
+Preeclampsia	403
+Pregnancy	404
+Premature birth	405
+Primary biliary cirrhosis	406
+Probiotic	407
+Proctitis	408
+Progressive multifocal leukoencephalopathy	409
+Prostate carcinoma	410
+Prostatic Neoplasms	411
+Prosthesis-related infections	412
+Protracted bacteria bronchitis	413
+Pseudomembranous enterocolitis	414
+Psoriasis	415
+Psoriatic arthritis	416
+Pulmonary arterial hypertension associated with another disease	417
+Pulmonary tuberculosis	418
+Pyelonephritis	419
+Pyoderma	420
+Q fever	421
+Rabies	422
+Rat-bite fever	423
+Reactive arthritis	424
+Rectal Neoplasms	425
+Recurrent pneumonia	426
+Red water disease	427
+Refractory celiac disease	428
+Rem sleep behavior disorder	429
+Renal carcinoma	430
+Renal transplant recipients and hemorrhagic cystiti	431
+Respiratory paralysis	432
+Respiratory syncytial virus infection	433
+Respiratory system disease	434
+Response to transplant	435
+Rett syndrome	436
+Rheumatic fever	437
+Rheumatoid arthritis	438
+Rhinitis	439
+Rhinoscleroma	440
+Rhinovirus infection	441
+Rickettsiosis	442
+Roseola	443
+Rubella	444
+Salmonella gastroenteritis	445
+Sarcocystosis	446
+Sarcoma	447
+Scarlet fever	448
+Scedosporiosis	449
+Schistosomiasis	450
+Schizophrenia	451
+Sclerosing cholangitis	452
+Secretory diarrhea	453
+Seizures	454
+Seminal hyperviscosity	455
+Sepsis	456
+Septic shock	457
+Septicemic plague	458
+Severe acute respiratory syndrome	459
+Shigellosis	460
+Sickle cell anemia	461
+Sinusitis	462
+Sjogren syndrome	463
+Skin and soft tissue staphylococcus aureus infection	464
+Skin disease	465
+Skin wound	466
+Smoking behavior	467
+Spinal cord injury	468
+Splenic disease	469
+Spondylodiscitis	470
+Sporotrichosis	471
+Squamous Intraepithelial Lesions	472
+Stomach Neoplasms	473
+Streptococcal pharyngitis	474
+Streptococcal pneumonia	475
+Subacute sclerosing panencephalitis	476
+Subdural empyema	477
+Suppuration of wounds	478
+Synovitis	479
+Syphilis	480
+Systematic fungemia	481
+Systemic inflammatory response syndrome	482
+Systemic lupus erythematosus	483
+Systemic scleroderma	484
+Tenosynovitis	485
+Tetanus	486
+Thrombophlebitis	487
+Thrombosis	488
+Thyroid Neoplasms	489
+Thyroid gland mucoepidermoid carcinoma	490
+Tick infestation	491
+Tinea	492
+Tinea favosa	493
+Tinea pedis	494
+Tongue Neoplasms	495
+Toxic encephalopathy	496
+Transient aplastic crisis in patients with hemoglobinopathies	497
+Transient ischemic attack	498
+Trench fever	499
+Trichomonas vaginitis	500
+Trichomoniasis	501
+Tuberculosis	502
+Tumorous abscesses	503
+Type 1 diabetes	504
+Type 2 diabetes	505
+Type i diabetes mellitus	506
+Type ii diabetes mellitus	507
+Typhus	508
+Ulcerative Colitis	509
+Ulcerative colitis	510
+Ulcers	511
+Urethritis	512
+Urgency urinary incontinence	513
+Urinary Bladder Neoplasms	514
+Urinary tract infection	515
+Urinary tract infections	516
+Urogenital infections	517
+Urosepsis	518
+Uterine Cervical Neoplasms	519
+Vaginal inflammation	520
+Vascular Stiffness	521
+Vincent angina bacteria	522
+Viral cardiomyopathy	523
+Viral encephalitis	524
+Viral pneumonia	525
+Virus diarrhea	526
+Virus respiratory tract infection	527
+Virus syndromes	528
+Visceral leishmaniasis	529
+Vitiligo	530
+Vulvar carcinoma	531
+Western equine encephalitis	532
+Whipple's disease	533
+White-sutton syndrome	534
+Whooping cough	535
+Yersinia infectious disease	536
